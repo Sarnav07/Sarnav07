@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there :
 🏛️ Student @ IIT Roorkee <br>🛠️ Stack: Solidity, Python, Quant Libraries <br>🤝 Open for: Web3 & DeFi Hackathons <br>🧠 Learning: Quantitative Strategies & Blockchain Development <br>📉 Chat with me about: Global Markets & Fintech Innovation
 
 
